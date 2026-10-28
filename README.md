@@ -18,4 +18,5 @@ Kursų mokymo medžiaga.
 | Failas | Tema | Skaidrės |
 |---|---|---|
 | [Kalbos_kultura_praktines_uzduotys_26_skaidres.pptx](uzduotys/Kalbos_kultura_praktines_uzduotys_26_skaidres.pptx) | Kalbos kultūra: praktinės užduotys | 28 |
+| [Specialybes_kalbos_uzduotis.docx](uzduotys/Specialybes_kalbos_uzduotis.docx) | Specialybės kalbos užduotis (2–3 min. kalba) | – |
 | [Uzduotis_Zodziai_4_skaidres.pptx](uzduotys/Uzduotis_Zodziai_4_skaidres.pptx) | Užduotis „Žodžiai“ | 6 |
