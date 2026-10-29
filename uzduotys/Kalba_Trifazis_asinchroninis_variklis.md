@@ -6,50 +6,68 @@ Specialybės kalbos užduotis (žr. `Specialybes_kalbos_uzduotis.docx`). Kalba s
 
 | Dėmuo | Pasirinkimas |
 |---|---|
-| **Tema** | Trifazio asinchroninio variklio sandara ir veikimo principas |
+| **Tema** | Kaip veikia trifazis asinchroninis variklis |
 | **Kalbos rūšis** | Informacinė kalba (veikia mintis) |
 | **Intencija** | Informuoti |
-| **Tikslas** | Paaiškinti klausytojams, kaip sudarytas trifazis asinchroninis variklis ir kodėl jis sukasi. |
-| **Pagrindinė mintis** | Statorius sukuria sukamąjį magnetinį lauką, rotorius jį vejasi, bet niekada nepasiveja, – taip elektros energija virsta mechanine. |
+| **Tikslas** | Paaiškinti nieko apie variklius nežinančiam klausytojui, kodėl trifazis asinchroninis variklis sukasi. |
+| **Pagrindinė mintis** | Statorius sukuria besisukantį magnetinį lauką, rotorius jį vejasi, bet niekada nepasiveja, – taip elektra virsta sukimusi. |
 | **Adresantas** | Elektros energetikos studentas, pristatantis savo specialybės įrenginį |
-| **Adresatas** | Kurso draugai ir dėstytoja – ne elektrikai, todėl terminai aiškinami kasdieniais palyginimais |
+| **Adresatas** | Kurso draugai ir dėstytoja – žmonės, visiškai nesusipažinę su varikliais |
 | **Situacija** | Nuotolinė paskaita Teams platformoje, 3 min., sakoma iš atminties, be skaidrių |
+
+**Kaip pasiektas aiškumas:**
+
+- Kiekvienas terminas įvedamas **pirma per vaizdinį, tik tada pavadinamas** (nejudantis žiedas su ritėmis → statorius; narvelis ant veleno → rotorius; bėganti banga → sukamasis laukas).
+- Visas veikimas paaiškintas **viena priežasčių grandine**: srovė → magnetas → paeiliui įjungiami magnetai → besisukantis laukas → srovė rotoriuje → rotorius tampa magnetu → vejasi lauką.
+- Fizikos principas (elektromagnetinė indukcija) įvardytas **vienu sakiniu su pavyzdžiu iš virtuvės** – indukcine virykle.
+- Vartojami tik keturi terminai: statorius, rotorius, apvija, elektromagnetinė indukcija. Visa kita – kasdieniai žodžiai.
 
 **Kontakto su klausytoju figūros ir priemonės:**
 
-- **Kreipinys** pradžioje („gerbiama dėstytoja, mieli kolegos“) ir pabaigoje („ačiū už dėmesį“).
-- **Retoriniai klausimai**: pradžioje („Ar kada susimąstėte...?“) ir kalbos viduryje („Kodėl rotorius sukasi?“).
-- **Inkliuzinis „mes“**: „pradėkime“, „prisiminkime“, „apibendrinkime“ – klausytojas įtraukiamas į aiškinimą.
-- **Palyginimai iš kasdienybės**: liftas, vanduo iš čiaupo, voverės ratas, fizikos pamoka.
-- **Plano anonsas**: „per tris minutes paaiškinsiu, kaip jis sudarytas ir kodėl sukasi“ – klausytojas žino, ko laukti.
-- **Žiedinė kompozicija**: pabaigoje grįžtama prie pradžios įvaizdžio (lifto).
-- **Grįžtamasis ryšys**: kvietimas klausti pabaigoje.
+- **Kreipinys** pradžioje ir pabaigoje.
+- **Retoriniai klausimai**: „Ar kada susimąstėte...?“, „O dabar – kaip jis sukasi?“
+- **Inkliuzinis „mes“**: „prisiminkime“, „kaip jau žinome“, „apibendrinkime“.
+- **Palyginimai iš kasdienybės**: liftas, žiūrovų banga stadione, indukcinė viryklė, magnetas ir sąvaržėlė, voverės ratas.
+- **Pažadas pradžioje**: „per tris minutes įsitikinsite, kad jo veikimas labai paprastas“ – nuima baimę prieš sudėtingą pavadinimą.
+- **Žiedinė kompozicija**: pabaigoje grįžtama prie lifto ir bangos.
+- **Grįžtamasis ryšys**: kvietimas klausti.
 
 ## Kalbos tekstas
 
 Laba diena, gerbiama dėstytoja, mieli kolegos.
 
-Ar kada susimąstėte, kas pakelia liftą, kuriuo važiuojate kasdien? Kas pumpuoja vandenį į jūsų butą ir kas vėsina net atomines elektrines? Visa tai daro vienas ir tas pats įrenginys – trifazis asinchroninis variklis. Per tris minutes paaiškinsiu, kaip jis sudarytas ir kodėl sukasi.
+Ar kada susimąstėte, kas pakelia liftą, kuriuo važiuojate kasdien? Kas pumpuoja vandenį į jūsų butą ir kas vėsina net atomines elektrines? Dažniausiai tai daro vienas ir tas pats įrenginys – trifazis asinchroninis variklis. Pavadinimas skamba sudėtingai, bet per tris minutes įsitikinsite, kad jo veikimas labai paprastas.
 
-Pradėkime nuo sandaros. Iš išorės matome metalinį korpusą su briaunomis – jos padidina paviršiaus plotą ir padeda atiduoti šilumą. Priekyje kyšo velenas – besisukanti dalis, prie kurios jungiame siurblį, reduktorių ar skriemulį. Gale sukasi ventiliatorius: jis pučia orą ant korpuso, nes įkaitęs variklis išlydytų apvijų izoliaciją ir sudegtų. Veleną laiko guoliai.
+Pirmiausia – kas tai yra. Tai metalinė dėžė, į kurią įeina trys laidai, o iš jos kyšo besisukantis velenas. Variklis elektrą paverčia sukimusi, o prie veleno galime prijungti ką tik norime: siurblį, lifto trosą ar ventiliatorių.
 
-Viduje slypi dvi svarbiausios dalys. Pirmoji – statorius. Jis nejuda, o jo grioveliuose suvyniotos trys varinės apvijos, pasuktos viena nuo kitos 120 laipsnių kampu. Antroji – rotorius, sujungtas su velenu. Dažniausiai tai trumpai jungtas rotorius: du žiedai, sujungti strypais. Jis primena voverės ratą, todėl angliškai taip ir vadinamas.
+Viduje yra tik dvi svarbios dalys. Pirmoji – nejudantis žiedas, kuriame suvyniotos trys ritės iš varinės vielos. Tai statorius, o ritės vadinamos apvijomis. Antroji – ant veleno užmautas narvelis iš metalinių strypų, panašus į voverės ratą. Tai rotorius.
 
-O dabar svarbiausia – kodėl rotorius sukasi? Prisiminkime fizikos pamoką: tekant srovei laidu, aplink jį susidaro magnetinis laukas. Kai į tris statoriaus apvijas paduodame trifazę kintamąją srovę, kiekvienoje fazėje ji kryptį keičia šiek tiek kitu laiku. Trys laukai susideda į vieną – sukamąjį magnetinį lauką. Šis laukas kerta rotoriaus strypus ir indukuoja juose srovę, o ta srovė sukuria savo magnetinį lauką. Du laukai traukia vienas kitą, ir rotorius ima vytis statoriaus lauką. Tačiau jis niekada jo nepasiveja: jei pasivytų, srovė nebebūtų indukuojama. Šis atsilikimas vadinamas slydimu, todėl variklis ir vadinamas asinchroniniu.
+O dabar – kaip jis sukasi? Prisiminkime vieną faktą: kai laidu teka srovė, laidas tampa magnetu. Vadinasi, trys statoriaus apvijos – tai trys magnetai. Srovė į jas ateina ne vienu metu, o paeiliui: sustiprėja pirmoje, tada antroje, tada trečioje ir vėl pirmoje. Įsivaizduokite žiūrovų bangą stadione: kiekvienas atsistoja savo vietoje, o banga bėga aplink visą stadioną. Taip ir čia: apvijos stovi, o magnetinis laukas sukasi ratu.
 
-Galiausiai – jungimas. Gnybtų dėžutėje rasime šešis gnybtus, pažymėtus raidėmis U, V ir W. Apvijas galime sujungti dviem būdais. Jungiant trikampiu kiekvienai apvijai tenka visa linijinė įtampa – 400 voltų. Jungiant žvaigžde apvijos susitinka bendrame taške, todėl kiekvienai tenka tik 230 voltų – tai 400 voltų, padalyti iš šaknies iš trijų. Vadinasi, žvaigžde sujungtas variklis naudoja mažesnę įtampą ir srovę, o trikampiu – didesnę.
+Šis besisukantis laukas kerta rotoriaus strypus ir sukelia juose srovę. Tai elektromagnetinė indukcija – tas pats reiškinys, kuriuo indukcinė viryklė įkaitina puodą jo neliesdama. O srovė, kaip jau žinome, metalą paverčia magnetu. Taigi rotorius tampa magnetu, ir besisukantis laukas tempia jį paskui save – kaip magnetas tempia sąvaržėlę. Velenas sukasi.
 
-Apibendrinkime: statorius sukuria sukamąjį lauką, rotorius jį vejasi, o mes gauname mechaninę energiją. Paprasta, patikima, be jokių šepetėlių – todėl šis variklis jau daugiau kaip šimtą metų suka pasaulį. Kitą kartą įlipę į liftą prisiminkite: jus kelia magnetinis laukas.
+Įdomiausia, kad rotorius lauko niekada nepasiveja. Vos tik pasivytų, laukas strypų atžvilgiu nebejudėtų, srovė išnyktų ir rotorius vėl atsiliktų. Jis visada sukasi šiek tiek lėčiau nei laukas, ne sinchroniškai, – todėl variklis ir vadinamas asinchroniniu.
+
+Dar vienas žodis apie laidus. Tris apvijas galima sujungti dviem būdais. Sujungus trikampiu, kiekviena apvija gauna visą 400 voltų įtampą, ir variklis dirba galingiau. Sujungus žvaigžde, apvijai tenka tik 230 voltų, ir variklis dirba švelniau.
+
+Apibendrinkime: statorius sukuria besisukantį magnetinį lauką, rotorius jį vejasi, o mes gauname sukimąsi. Jokių šepetėlių, jokių kibirkščių – todėl šis variklis jau daugiau kaip šimtą metų patikimai suka pasaulį. Kitą kartą įlipę į liftą prisiminkite: jus kelia bėganti magnetinė banga.
 
 Ačiū už dėmesį. Mielai atsakysiu į klausimus.
 
 ## Patarimai sakant kalbą per Teams
 
-- Tekstas – apie 330 žodžių. Ramiu tempu su pauzėmis tai yra 2,5–3 minutės. Pasimatuokite laiką: jei viršijate, trumpinkite jungimo dalį (žvaigždė / trikampis), ji mažiausiai būtina.
-- Po kiekvieno retorinio klausimo padarykite pauzę – taip klausytojas spėja susimąstyti.
+- Tekstas – apie 350 žodžių. Ramiu tempu su pauzėmis tai yra maždaug 3 minutės. Pasimatuokite laiką: jei viršijate, pirmiausia trumpinkite pastraipą apie jungimą (trikampis / žvaigždė), ji mažiausiai būtina.
+- Po kiekvieno retorinio klausimo ir po stadiono bangos vaizdinio padarykite pauzę – klausytojas turi spėti įsivaizduoti.
 - Žiūrėkite į kamerą, ne į ekraną, – tai akių kontakto atitikmuo nuotoliu. Kamera turi būti akių lygyje.
-- Kalbos „griaučiai“, jei užstrigtumėte: **sandara → statorius ir rotorius → kodėl sukasi → jungimas → apibendrinimas**.
-- Skaičiai, kuriuos verta įsiminti: 120°, 400 V, 230 V, √3.
+- Kalbos „griaučiai“, jei užstrigtumėte: **kas tai → dvi dalys → srovė = magnetas → banga → indukcija → vejasi, nepasiveja → jungimas → apibendrinimas**.
+- Skaičiai, kuriuos verta įsiminti: trys apvijos, 400 V, 230 V.
+
+## Fizikos pagrindas (sau, ne klausytojams)
+
+Kalboje sakinys „laukas kerta strypus ir sukelia juose srovę“ remiasi dviem dėsniais:
+
+1. **Elektromagnetinė indukcija (Faradėjaus dėsnis).** Laukas juda strypų atžvilgiu, magnetinis srautas per kontūrą „strypas + du galiniai žiedai“ kinta, todėl jame indukuojasi elektrovaros jėga; narvelis trumpai sujungtas, tad teka srovė. **Lenco taisyklė** nurodo kryptį: srovė priešinasi santykiniam judėjimui, todėl rotorius sukasi paskui lauką. Ji paaiškina ir slydimą: suktųsi sinchroniškai – srautas nekistų, indukcija išnyktų.
+2. **Ampero jėga.** Laidininką su srove magnetiniame lauke veikia jėga, todėl atsiranda sukimo momentas. Kalboje tai supaprastinta į „rotorius tampa magnetu, ir laukas jį tempia“.
 
 ## Terminų žodynėlis (iš vaizdo įrašo)
 
