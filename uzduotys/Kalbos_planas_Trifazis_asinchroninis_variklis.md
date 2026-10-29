@@ -21,8 +21,7 @@ Kalba „Kaip veikia trifazis asinchroninis variklis“ (tekstas – `Kalba_Trif
 
 1. Kreipinys: „Laba diena, dėstytoja, kolegos.“
 2. Temos pristatymas: trifazis asinchroninis variklis – dažniausias variklis pramonėje. Pavyzdžiai: siurbliai, ventiliatoriai, eskalatoriai, kranai, konvejeriai.
-3. Ryšys su klausytoju: jo nematome, bet su jo darbu susiduriame kasdien.
-4. Intriga ir pažadas: pavadinimas sudėtingas, variklis paprastas. Paaiškinsiu, kas viduje ir kodėl sukasi.
+3. Intriga ir pažadas: pavadinimas sudėtingas, variklis paprastas. Paaiškinsiu, kas viduje ir kodėl sukasi.
 
 ### II. Dėstymas (apie 3 min)
 
@@ -34,8 +33,8 @@ Kalba „Kaip veikia trifazis asinchroninis variklis“ (tekstas – `Kalba_Trif
 - Rotorius statoriaus neliečia – oro tarpas. Nėra dantračių ir šepetėlių.
 
 **2. Veikimo principas** (apie 1 min 30 s) – trys žingsniai, kiekvienas remiasi ankstesniu:
-- a) Srovė laide sukuria magnetinį lauką → apvija tampa magnetu → trys apvijos yra trys magnetai.
-- b) Trifazė srovė: trys srovės stiprėja ne vienu metu, o paeiliui → laukas bėga ratu aplink statorių (palyginimas: žiūrovų banga stadione) → sukamasis magnetinis laukas. Paaiškinamas žodis „trifazis“.
+- a) Srovė laide sukuria magnetinį lauką → ritė tampa magnetu → trys ričių komplektai statoriuje išdėstyti 120° kampu – dirva besisukančiam laukui.
+- b) Trifazė srovė: trys srovės (fazės) stiprėja ne vienu metu, o paeiliui, jų didžiausios vertės nutolusios 120° – tokiu pat kampu kaip apvijos → laukas bėga ratu aplink statorių (palyginimas: žiūrovų banga stadione) → sukamasis magnetinis laukas. Paaiškinamas žodis „trifazis“.
 - c) Laukas kerta rotoriaus strypus → juose atsiranda srovė (elektromagnetinė indukcija; palyginimas: indukcinė viryklė) → rotorius tampa magnetu → laukas traukia jį paskui save → velenas sukasi. Apibendrinimas: įeina trys laidai, išeina sukimasis.
 
 **3. Pavadinimo paaiškinimas** (apie 25 s)
@@ -59,13 +58,13 @@ Kalba „Kaip veikia trifazis asinchroninis variklis“ (tekstas – `Kalba_Trif
 | Priemonė | Kur kalboje |
 |---|---|
 | Kreipinys | pradžioje ir pabaigoje |
-| Įtraukiantis „mes“ | „į mūsų namus“, „su jo darbu susiduriame kasdien“, „ką norime sukti“ |
+| Įtraukiantis „mes“ | „į mūsų namus“, „ką norime sukti“, „paruošiame dirvą“ |
 | Vedantys sakiniai (klausytojas žino, kur esame) | „Paaiškinsiu, kas yra jo viduje ir kodėl jis sukasi“; „Dabar svarbiausia – kodėl jis sukasi“; „Lieka paaiškinti žodį ‚asinchroninis‘“ |
 | Palyginimai iš kasdienybės | žiūrovų banga stadione (sukamasis laukas); indukcinė viryklė (indukcija) |
 | Sąmoningas pakartojimas | „srovė metalą paverčia magnetu“ – apie statorių ir apie rotorių |
 | Terminai po paaiškinimo | pirma „nejudantis variklio korpusas su apvijomis“, tik tada „statorius“; pirma „laukas bėga ratu“, tik tada „sukamasis magnetinis laukas“ |
 | Pavadinimo paaiškinimas kaip ašis | „trifazis“ – po trijų srovių; „asinchroninis“ – po atsilikimo |
-| Įterpiniai | vertinamieji: ko gero, žinoma, be abejo, pasirodo, laimei; ryšio: kaip jau sakiau, kaip prisimenate, kaip tikriausiai jau supratote, atkreipkite dėmesį; patikslinamieji: pavyzdžiui, paprastai tariant, kitaip tariant, tiesą sakant, trumpai tariant |
+| Įterpiniai | vertinamieji: ko gero, žinoma, pasirodo, laimei; ryšio: kaip jau sakiau, kaip prisimenate, kaip tikriausiai jau supratote, atkreipkite dėmesį; patikslinamieji: pavyzdžiui, paprastai tariant, kitaip tariant, trumpai tariant |
 | Apibendrinimas ir kvietimas klausti | pabaigoje |
 
 ## Kalbinės priemonės
