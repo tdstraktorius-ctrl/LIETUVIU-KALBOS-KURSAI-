@@ -27,18 +27,18 @@ Specialybės kalbos užduotis (žr. `Specialybes_kalbos_uzduotis.docx`). Kalba s
 - **Kreipinys** pradžioje ir pabaigoje.
 - **Retoriniai klausimai**: „Ar kada susimąstėte...?“, „O dabar – kaip jis sukasi?“
 - **Inkliuzinis „mes“**: „prisiminkime“, „kaip jau žinome“, „apibendrinkime“.
-- **Palyginimai iš kasdienybės**: liftas, žiūrovų banga stadione, indukcinė viryklė, magnetas ir sąvaržėlė, voverės ratas.
+- **Palyginimai iš kasdienybės**: eskalatorius, žiūrovų banga stadione, indukcinė viryklė, magnetas ir sąvaržėlė, voverės ratas.
 - **Pažadas pradžioje**: „per tris minutes įsitikinsite, kad jo veikimas labai paprastas“ – nuima baimę prieš sudėtingą pavadinimą.
-- **Žiedinė kompozicija**: pabaigoje grįžtama prie lifto ir bangos.
+- **Žiedinė kompozicija**: pabaigoje grįžtama prie eskalatoriaus ir bangos.
 - **Grįžtamasis ryšys**: kvietimas klausti.
 
 ## Kalbos tekstas
 
 Laba diena, gerbiama dėstytoja, mieli kolegos.
 
-Ar kada susimąstėte, kas pakelia liftą, kuriuo važiuojate kasdien? Kas pumpuoja vandenį į jūsų butą ir kas vėsina net atomines elektrines? Dažniausiai tai daro vienas ir tas pats įrenginys – trifazis asinchroninis variklis. Pavadinimas skamba sudėtingai, bet per tris minutes įsitikinsite, kad jo veikimas labai paprastas.
+Ar kada susimąstėte, kas kelia eskalatorių prekybos centre? Kas pumpuoja vandenį į jūsų butą ir kas vėsina net atomines elektrines? Dažniausiai tai daro vienas ir tas pats įrenginys – trifazis asinchroninis variklis. Pavadinimas skamba sudėtingai, bet per tris minutes įsitikinsite, kad jo veikimas labai paprastas.
 
-Pirmiausia – kas tai yra. Tai metalinė dėžė, į kurią įeina trys laidai, o iš jos kyšo besisukantis velenas. Variklis elektrą paverčia sukimusi, o prie veleno galime prijungti ką tik norime: siurblį, lifto trosą ar ventiliatorių.
+Pirmiausia – kas tai yra. Tai metalinė dėžė, į kurią įeina trys laidai, o iš jos kyšo besisukantis velenas. Variklis elektrą paverčia sukimusi, o prie veleno galime prijungti ką tik norime: siurblį, statybinį kraną ar ventiliatorių.
 
 Viduje yra tik dvi svarbios dalys. Pirmoji – nejudantis žiedas, kuriame suvyniotos trys ritės iš varinės vielos. Tai statorius, o ritės vadinamos apvijomis. Antroji – ant veleno užmautas narvelis iš metalinių strypų, panašus į voverės ratą. Tai rotorius.
 
@@ -50,7 +50,7 @@ O dabar – kaip jis sukasi? Prisiminkime vieną faktą: kai laidu teka srovė, 
 
 Dar vienas žodis apie laidus. Tris apvijas galima sujungti dviem būdais. Sujungus trikampiu, kiekviena apvija gauna visą 400 voltų įtampą, ir variklis dirba galingiau. Sujungus žvaigžde, apvijai tenka tik 230 voltų, ir variklis dirba švelniau.
 
-Apibendrinkime: statorius sukuria besisukantį magnetinį lauką, rotorius jį vejasi, o mes gauname sukimąsi. Jokių šepetėlių, jokių kibirkščių – todėl šis variklis jau daugiau kaip šimtą metų patikimai suka pasaulį. Kitą kartą įlipę į liftą prisiminkite: jus kelia bėganti magnetinė banga.
+Apibendrinkime: statorius sukuria besisukantį magnetinį lauką, rotorius jį vejasi, o mes gauname sukimąsi. Jokių šepetėlių, jokių kibirkščių – todėl šis variklis jau daugiau kaip šimtą metų patikimai suka pasaulį. Kitą kartą užlipę ant eskalatoriaus prisiminkite: jus kelia bėganti magnetinė banga.
 
 Ačiū už dėmesį. Mielai atsakysiu į klausimus.
 
