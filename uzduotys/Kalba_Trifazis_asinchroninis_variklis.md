@@ -24,7 +24,7 @@ Specialybės kalbos užduotis (žr. `Specialybes_kalbos_uzduotis.docx`). Kalba s
 - **Vedantys sakiniai**, kad klausytojas visada žinotų, kur esame: „Paaiškinsiu, kas yra jo viduje ir kodėl jis sukasi“, „Dabar svarbiausia – kodėl jis sukasi“, „Lieka paaiškinti žodį „asinchroninis““.
 - **Du palyginimai iš kasdienybės**, tik ten, kur be jų neaišku: žiūrovų banga stadione (besisukantis laukas) ir indukcinė viryklė (indukcija).
 - **Sąmoningas pakartojimas** svarbiausios minties: „srovė metalą paverčia magnetu“ pasakoma du kartus – apie statorių ir apie rotorių.
-- **Terminai įvedami tik po paaiškinimo**: pirma „nejudantis žiedas su apvijomis“, tik tada „statorius“; pirma „laukas bėga ratu“, tik tada „sukamasis magnetinis laukas“.
+- **Terminai įvedami tik po paaiškinimo**: pirma „nejudantis variklio korpusas su apvijomis“, tik tada „statorius“; pirma „laukas bėga ratu“, tik tada „sukamasis magnetinis laukas“.
 - **Pavadinimo paaiškinimas** kaip kalbos ašis: „trifazis“ paaiškinamas po trijų srovių, „asinchroninis“ – po atsilikimo.
 - **Apibendrinimas** pabaigoje ir **kvietimas klausti**.
 
@@ -34,7 +34,7 @@ Laba diena, dėstytoja, kolegos.
 
 Šiandien papasakosiu apie trifazį asinchroninį variklį. Tai dažniausias variklis pramonėje: jis suka siurblius, kurie tiekia vandenį į mūsų namus, ventiliatorius, eskalatorius, kranus, konvejerius gamyklose. Mes jo dažniausiai nematome, bet su jo darbu susiduriame kasdien. Pavadinimas skamba sudėtingai, tačiau pats variklis yra labai paprastas. Paaiškinsiu, kas yra jo viduje ir kodėl jis sukasi.
 
-Iš išorės matome metalinį korpusą, iš kurio kyšo velenas – besisukanti ašis. Prie veleno jungiama tai, ką norime sukti: siurblį, ventiliatorių, pavarą. Viduje yra tik dvi dalys. Pirmoji – nejudantis žiedas, kurio grioveliuose suvyniotos trys apvijos iš varinės vielos. Tai statorius. Antroji – metalinis cilindras ant veleno, kurio viduje yra narvelis iš strypų. Tai rotorius. Rotorius įstatytas į statoriaus vidų, bet jo neliečia – tarp jų lieka plonas oro tarpas. Jokių dantračių, jokių šepetėlių. Tai ir visa sandara.
+Iš išorės matome metalinį korpusą, iš kurio kyšo velenas – besisukanti ašis. Prie veleno jungiama tai, ką norime sukti: siurblį, ventiliatorių, pavarą. Viduje yra tik dvi dalys. Pirmoji – nejudantis variklio korpusas, kurio viduje, grioveliuose, suvyniotos trys apvijos iš varinės vielos. Tai statorius. Antroji – metalinis cilindras ant veleno, kurio viduje yra narvelis iš strypų. Tai rotorius. Rotorius įstatytas į statoriaus vidų, bet jo neliečia – tarp jų lieka plonas oro tarpas. Jokių dantračių, jokių šepetėlių. Tai ir visa sandara.
 
 Dabar svarbiausia – kodėl jis sukasi.
 
