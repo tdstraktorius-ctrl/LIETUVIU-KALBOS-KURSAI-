@@ -32,7 +32,7 @@ Specialybės kalbos užduotis (žr. `Specialybes_kalbos_uzduotis.docx`). Kalba s
 
 Laba diena, dėstytoja, kolegos.
 
-Šiandien papasakosiu apie trifazį asinchroninį variklį. Tai dažniausias variklis pramonėje: jis suka siurblius, kurie tiekia vandenį į mūsų namus, ventiliatorius, eskalatorius, kranus, konvejerius gamyklose. Mes jo nematome, bet be jo sustotų beveik viskas, kas aplink mus sukasi. Pavadinimas skamba sudėtingai, tačiau pats variklis yra labai paprastas. Paaiškinsiu, kas yra jo viduje ir kodėl jis sukasi.
+Šiandien papasakosiu apie trifazį asinchroninį variklį. Tai dažniausias variklis pramonėje: jis suka siurblius, kurie tiekia vandenį į mūsų namus, ventiliatorius, eskalatorius, kranus, konvejerius gamyklose. Mes jo dažniausiai nematome, bet su jo darbu susiduriame kasdien. Pavadinimas skamba sudėtingai, tačiau pats variklis yra labai paprastas. Paaiškinsiu, kas yra jo viduje ir kodėl jis sukasi.
 
 Iš išorės matome metalinį korpusą, iš kurio kyšo velenas – besisukanti ašis. Prie veleno jungiama tai, ką norime sukti: siurblį, ventiliatorių, pavarą. Viduje yra tik dvi dalys. Pirmoji – nejudantis žiedas, kurio grioveliuose suvyniotos trys apvijos iš varinės vielos. Tai statorius. Antroji – metalinis cilindras ant veleno, kurio viduje yra narvelis iš strypų. Tai rotorius. Rotorius įstatytas į statoriaus vidų, bet jo neliečia – tarp jų lieka plonas oro tarpas. Jokių dantračių, jokių šepetėlių. Tai ir visa sandara.
 
