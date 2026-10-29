@@ -11,52 +11,52 @@ Specialybės kalbos užduotis (žr. `Specialybes_kalbos_uzduotis.docx`). Kalba s
 | **Intencija** | Informuoti |
 | **Tikslas** | Paaiškinti nieko apie variklius nežinančiam klausytojui, kodėl trifazis asinchroninis variklis sukasi. |
 | **Pagrindinė mintis** | Statorius sukuria besisukantį magnetinį lauką, rotorius jį vejasi, bet niekada nepasiveja, – taip elektra virsta sukimusi. |
-| **Adresantas** | Elektriko profesijos mokytojas, aiškinantis kolegoms taip, kaip aiškina mokiniams per pirmą pamoką |
+| **Adresantas** | Elektros specialistas (elektriko profesijos mokytojas), kalbantis kolegoms ne elektrikams |
 | **Adresatas** | Kurso draugai ir dėstytoja – žmonės, visiškai nesusipažinę su varikliais |
 | **Situacija** | Nuotolinė paskaita Teams platformoje, 3 min., sakoma iš atminties, be skaidrių |
 
 **Kontakto su klausytoju figūros ir priemonės:**
 
 - **Kreipinys** pradžioje ir pabaigoje.
-- **Pedagoginė patirtis** kaip kalbos ašis: „kasmet matau tą patį“, „mokiniai nustemba“, „čia mokiniai dažniausiai klysta“ – kalbėtojas kalba iš savo darbo, ne iš vadovėlio.
-- **Retorinis klausimas** lūžio vietoje, pateiktas kaip mokinių klausimas: „tai kaip jis sukasi, jei viduje niekas nieko nestumia?“
-- **Inkliuzinis „mes“**: „mes jų nematome“, „grįžkime prie rotoriaus“, „mes gauname sukimąsi“.
+- **Tiesioginis kreipimasis į klausytoją**: „nustebtumėte“, „įsivaizduokite“, „į jūsų butus“, „galite prisiminti“ – kalba visą laiką nukreipta į auditoriją, ne į kalbėtoją.
+- **Retorinis klausimas** lūžio vietoje: „Tai kaip jis sukasi, jei viduje niekas nieko nestumia?“
+- **Inkliuzinis „mes“**: „mes jų nematome“, „jei išardytume“, „grįžkime prie rotoriaus“, „mes gauname sukimąsi“.
 - **Palyginimai iš kasdienybės**: žiūrovų banga stadione, indukcinė viryklė, voverės ratas, eskalatorius.
 - **Terminai įvedami per vaizdinį**: pirma „nejudantis žiedas su ritėmis“, tik tada „statorius“.
-- **Žiedinė kompozicija**: eskalatorius pradžioje ir pabaigoje, mokiniai pradžioje ir pabaigoje.
+- **Žiedinė kompozicija**: eskalatorius pradžioje ir pabaigoje.
 - **Grįžtamasis ryšys**: kvietimas klausti.
 
 ## Kalbos tekstas
 
 Laba diena, dėstytoja, kolegos.
 
-Aš esu elektriko profesijos mokytojas. Kasmet savo mokiniams aiškinu, kaip veikia trifazis asinchroninis variklis, ir kasmet matau tą patį: vien pavadinimas juos išgąsdina. O pats variklis iš tikrųjų labai paprastas. Pabandysiu jį paaiškinti taip, kaip aiškinu per pirmą pamoką.
+Mano sritis yra elektra, todėl papasakosiu apie įrenginį iš savo srities – trifazį asinchroninį variklį. Žinau, pavadinimas skamba baisiai, bet pats variklis iš tikrųjų labai paprastas. Pabandysiu tai parodyti.
 
 Tokių variklių yra visur, tik mes jų nematome. Jie suka eskalatorius prekybos centruose, siurblius, kurie į jūsų butus pumpuoja vandenį, kranus statybose, net aušinimo siurblius atominėse elektrinėse. Jei kas nors pramonėje sukasi, greičiausiai suka būtent toks variklis.
 
-Kai per pamoką išardome variklį, mokiniai nustemba, kad viduje beveik nieko nėra. Nei dantračių, nei šepetėlių. Tik dvi dalys. Viena yra nejudantis žiedas, kuriame suvyniotos trys ritės iš varinės vielos. Tai statorius. Kita yra metalinis cilindras ant veleno, sudarytas iš strypų, panašus į voverės ratą. Tai rotorius. Ir viskas.
+Jei tokį variklį išardytume, nustebtumėte: viduje beveik nieko nėra. Nei dantračių, nei šepetėlių. Tik dvi dalys. Viena yra nejudantis žiedas, kuriame suvyniotos trys ritės iš varinės vielos. Tai statorius. Kita yra metalinis cilindras ant veleno, sudarytas iš strypų, panašus į voverės ratą. Tai rotorius. Ir viskas.
 
-Tada visada išgirstu tą patį klausimą: tai kaip jis sukasi, jei viduje niekas nieko nestumia?
+Tai kaip jis sukasi, jei viduje niekas nieko nestumia?
 
-Reikia žinoti tik vieną dalyką: kai laidu teka srovė, laidas tampa magnetu. Vadinasi, tos trys ritės yra trys magnetai. Bet srovė į jas ateina ne vienu metu, o paeiliui: sustiprėja pirmoje, tada antroje, tada trečioje ir vėl iš naujo. Mokiniams sakau: prisiminkite žiūrovų bangą stadione. Kiekvienas žmogus tik atsistoja savo vietoje, bet banga bėga aplink visą stadioną. Taip ir čia: ritės stovi, o magnetinis laukas sukasi ratu.
+Reikia žinoti tik vieną dalyką: kai laidu teka srovė, laidas tampa magnetu. Vadinasi, tos trys ritės yra trys magnetai. Bet srovė į jas ateina ne vienu metu, o paeiliui: sustiprėja pirmoje, tada antroje, tada trečioje ir vėl iš naujo. Įsivaizduokite žiūrovų bangą stadione. Kiekvienas žmogus tik atsistoja savo vietoje, bet banga bėga aplink visą stadioną. Taip ir čia: ritės stovi, o magnetinis laukas sukasi ratu.
 
 Dabar grįžkime prie rotoriaus. Besisukantis laukas kerta jo strypus ir sukelia juose srovę. Tai elektromagnetinė indukcija, tas pats reiškinys, dėl kurio indukcinė viryklė įkaitina puodą, nors jo neliečia. O srovė, kaip jau sakiau, metalą paverčia magnetu. Taigi rotorius irgi tampa magnetu, ir besisukantis laukas tempia jį paskui save. Velenas sukasi.
 
 Čia yra viena įdomi smulkmena. Rotorius lauko niekada nepasiveja. Jei pasivytų, laukas jo atžvilgiu nebejudėtų, srovė dingtų, ir rotorius vėl atsiliktų. Todėl jis visada sukasi truputį lėčiau nei laukas, nesinchroniškai. Iš čia ir pavadinimas: asinchroninis.
 
-Dar pora žodžių apie prijungimą, nes čia mokiniai dažniausiai klysta. Tas tris rites galima sujungti dviem būdais: trikampiu arba žvaigžde. Sujungus trikampiu, variklis gauna visą 400 voltų įtampą ir dirba galingiau, o žvaigžde gauna tik 230 ir dirba švelniau. Jei supainiosi, variklis perkais. Todėl pirmas dalykas, kurio mokau, – prieš jungiant pažiūrėti į variklio lentelę.
+Dar pora žodžių apie prijungimą, nes praktikoje tai svarbiausia. Tas tris rites galima sujungti dviem būdais: trikampiu arba žvaigžde. Sujungus trikampiu, variklis gauna visą 400 voltų įtampą ir dirba galingiau, o žvaigžde gauna tik 230 ir dirba švelniau. Jei supainiosi, variklis perkais, todėl prieš jungiant visada žiūrima į variklio lentelę.
 
 Tai iš esmės viskas. Statorius sukuria besisukantį lauką, rotorius jį vejasi, o mes gauname sukimąsi. Jokių šepetėlių, beveik nėra kam susidėvėti, todėl tokie varikliai dirba dešimtmečiais. Kitą kartą stovėdami ant eskalatoriaus galite prisiminti, kad jus kelia tokia magnetinė banga.
 
-Ačiū. Jei kas neaišku, klauskite. Mokiniai klausia visada.
+Ačiū. Jei kas neaišku, klauskite.
 
 ## Patarimai sakant kalbą per Teams
 
-- Tekstas – apie 390 žodžių. Ramiu tempu su pauzėmis tai yra 3 minutės. Pasimatuokite laiką: jei viršijate, trumpinkite pastraipą apie prijungimą (trikampis / žvaigždė) arba išmeskite sakinį apie variklio lentelę.
-- Po mokinių klausimo „tai kaip jis sukasi...?“ ir po stadiono bangos padarykite pauzę – klausytojas turi spėti įsivaizduoti.
-- Nesistenkite pasakyti žodis į žodį. Jūs tai aiškinate kasmet, todėl pamiršę sakinį tiesiog pasakykite savais žodžiais – skambės tik natūraliau.
+- Tekstas – apie 360 žodžių. Ramiu tempu su pauzėmis tai yra maždaug 3 minutės. Pasimatuokite laiką: jei viršijate, trumpinkite pastraipą apie prijungimą (trikampis / žvaigždė), ji mažiausiai būtina.
+- Po klausimo „Tai kaip jis sukasi...?“ ir po stadiono bangos padarykite pauzę – klausytojas turi spėti įsivaizduoti.
+- Nesistenkite pasakyti žodis į žodį. Pamiršę sakinį, pasakykite savais žodžiais – skambės tik natūraliau.
 - Žiūrėkite į kamerą, ne į ekraną, – tai akių kontakto atitikmuo nuotoliu. Kamera turi būti akių lygyje.
-- Kalbos „griaučiai“, jei užstrigtumėte: **kur jie yra → išardome: dvi dalys → mokinių klausimas → srovė = magnetas → banga → indukcija → vejasi, nepasiveja → prijungimas → pabaiga**.
+- Kalbos „griaučiai“, jei užstrigtumėte: **kur jie yra → išardome: dvi dalys → klausimas → srovė = magnetas → banga → indukcija → vejasi, nepasiveja → prijungimas → pabaiga**.
 
 ## Fizikos pagrindas (sau, ne klausytojams)
 
