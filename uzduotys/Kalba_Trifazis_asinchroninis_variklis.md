@@ -52,7 +52,7 @@ Ačiū. Jei turite klausimų, mielai atsakysiu.
 
 ## Patarimai sakant kalbą per Teams
 
-- Tekstas – apie 500 žodžių. Ramiu tempu su pauzėmis tai yra maždaug 4 minutės. Jei dėstytoja laikysis griežtų 3 minučių, trumpinkite šia tvarka: 1) sakinys „Viską uždaro metalinis korpusas...“; 2) sakinys „Bet iš tokio variklio naudos maža...“; 3) pirmoje pastraipoje palikite tik „Jie pumpuoja vandenį į mūsų butus ir kelia eskalatorius“.
+- Tekstas – apie 460 žodžių. Ramiu tempu su pauzėmis tai yra maždaug 4 minutės. Jei dėstytoja laikysis griežtų 3 minučių, trumpinkite šia tvarka: 1) sakinys „Viską uždaro metalinis korpusas...“; 2) sakinys „Bet iš tokio variklio naudos maža...“; 3) pirmoje pastraipoje palikite tik „Jie pumpuoja vandenį į mūsų butus ir kelia eskalatorius“.
 - Kalbos „griaučiai“ atminčiai: **miestas → kompasas → trys ritės (banga, „trifazis“) → skardinė (indukcija) → atsilieka („asinchroninis“) → statorius, rotorius → eskalatorius**. Įsiminkite grandinę, ne sakinius.
 - Pauzės: po „pastebime tik tada, kai jie sustoja“, po „nuo kompaso“, po „ir vis dėlto skardinė pradeda suktis“ ir prieš „Man tai vienas gražiausių dalykų“.
 - Tempas: pirma pastraipa lėtai, beveik tyliai, – ji apie tylą. Pagreitėkite ties stadiono banga, vėl sulėtėkite ties „tik įsižiūrėkite“.
