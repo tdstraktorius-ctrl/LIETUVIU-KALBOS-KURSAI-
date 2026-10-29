@@ -57,7 +57,7 @@ Ačiū. Jei kas neaišku, klauskite.
 
 ## Patarimai sakant kalbą per Teams
 
-- Tekstas – apie 380 žodžių. Ramiu tempu su pauzėmis tai yra 3 minutės. Pasimatuokite laiką: jei viršijate, trumpinkite ketvirtą pakeitimą (sakinį apie tris laidus ir veleną).
+- Tekstas – apie 330 žodžių. Ramiu tempu su pauzėmis tai yra 2,5–3 minutės, tad laiko yra ir pauzėms, ir sakiniui apie prijungimą (žr. žemiau). Vis tiek pasimatuokite laiką.
 - Keturi pakeitimai yra ir kalbos „griaučiai“: **kompasas → ritės (banga) → skardinė (indukcija) → atsilieka (asinchroninis) → korpusas (statorius, rotorius)**. Įsiminkite tik šią grandinę, žodžiai ateis patys.
 - Pauzės: po „pradėsiu ne nuo variklio, o nuo kompaso“ ir po „ir vis dėlto skardinė pradeda suktis“ – ten klausytojas turi spėti nustebti.
 - Bandymą su skardine galima parodyti per kamerą gyvai: dubuo vandens, tuščia aliuminio skardinė ir stiprus (neodimio) magnetas, sukamas ratu aplink skardinę, – ji lėtai pradeda suktis. Būtinai išbandykite namie prieš kalbą; jei nesisuka, magnetas per silpnas arba per toli.
