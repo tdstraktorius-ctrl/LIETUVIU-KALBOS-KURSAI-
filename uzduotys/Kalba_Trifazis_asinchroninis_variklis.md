@@ -2,32 +2,7 @@
 
 Specialybės kalbos užduotis (žr. `Specialybes_kalbos_uzduotis.docx`). Kalba sakoma atmintinai, Teams platformoje, trukmė – 3–4 minutės.
 
-## Kalbos planas (pagal lektorės reikalavimus)
-
-| Dėmuo | Pasirinkimas |
-|---|---|
-| **Tema** | Kaip veikia trifazis asinchroninis variklis |
-| **Kalbos rūšis** | Informacinė kalba (veikia mintis) |
-| **Intencija** | Informuoti |
-| **Tikslas** | Paaiškinti nieko apie variklius nežinančiam klausytojui, kas yra trifazio asinchroninio variklio viduje ir kodėl jis sukasi. |
-| **Pagrindinė mintis** | Trys apvijos sukuria besisukantį magnetinį lauką, tas laukas rotoriuje sukelia srovę ir paverčia jį magnetu, o tada traukia jį paskui save. |
-| **Adresantas** | Elektros specialistas (elektriko profesijos mokytojas), kalbantis kolegoms ne elektrikams |
-| **Adresatas** | Kurso draugai ir dėstytoja – žmonės, visiškai nesusipažinę su varikliais |
-| **Situacija** | Nuotolinė paskaita Teams platformoje, 3–4 min., sakoma iš atminties, be skaidrių |
-
-**Kompozicija** – tiesioginė aiškinamoji: kas tai ir kur jis yra → kas viduje (dvi dalys) → kodėl sukasi (trys žingsniai: srovė sukuria magnetą → trys srovės sukuria besisukantį lauką → laukas rotoriuje sukelia srovę ir traukia jį) → ką reiškia pavadinimas → kaip prijungiamas → pabaiga. Kiekvienas žingsnis remiasi tik tuo, kas jau pasakyta.
-
-**Kontakto su klausytoju figūros ir priemonės:**
-
-- **Kreipinys** pradžioje ir pabaigoje.
-- **Įtraukiantis „mes“**: „į mūsų namus“, „su jo darbu susiduriame kasdien“, „ką norime sukti“.
-- **Vedantys sakiniai**, kad klausytojas visada žinotų, kur esame: „Paaiškinsiu, kas yra jo viduje ir kodėl jis sukasi“, „Dabar svarbiausia – kodėl jis sukasi“, „Lieka paaiškinti žodį ‚asinchroninis‘“.
-- **Du palyginimai iš kasdienybės**, tik ten, kur be jų neaišku: žiūrovų banga stadione (besisukantis laukas) ir indukcinė viryklė (indukcija).
-- **Sąmoningas pakartojimas** svarbiausios minties: „srovė metalą paverčia magnetu“ pasakoma du kartus – apie statorių ir apie rotorių.
-- **Terminai įvedami tik po paaiškinimo**: pirma „nejudantis variklio korpusas su apvijomis“, tik tada „statorius“; pirma „laukas bėga ratu“, tik tada „sukamasis magnetinis laukas“.
-- **Pavadinimo paaiškinimas** kaip kalbos ašis: „trifazis“ paaiškinamas po trijų srovių, „asinchroninis“ – po atsilikimo.
-- **Įterpiniai**, kad kalba skambėtų kaip gyva, o ne skaitoma: vertinamieji („ko gero“, „žinoma“, „be abejo“, „pasirodo“, „laimei“), nurodantys ryšį su klausytoju ar su tuo, kas pasakyta („kaip jau sakiau“, „kaip prisimenate“, „kaip tikriausiai jau supratote“, „atkreipkite dėmesį“), patikslinamieji („pavyzdžiui“, „paprastai tariant“, „kitaip tariant“, „tiesą sakant“, „trumpai tariant“).
-- **Apibendrinimas** pabaigoje ir **kvietimas klausti**.
+**Kalbos planas** (tema, tikslas, adresantas, adresatas, struktūra, kontakto figūros, laiko paskirstymas) – atskirame faile `Kalbos_planas_Trifazis_asinchroninis_variklis.md`.
 
 ## Kalbos tekstas
 

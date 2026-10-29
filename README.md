@@ -26,6 +26,7 @@ Lietuvių kalbos kultūros kursų mokymo medžiaga: paskaitų prezentacijos ir p
 | Failas | Tema | Apimtis |
 |---|---|---|
 | [Kalba_Trifazis_asinchroninis_variklis.md](uzduotys/Kalba_Trifazis_asinchroninis_variklis.md) | Parengta kalba „Kaip veikia trifazis asinchroninis variklis“ (specialybės kalbos užduočiai) | ~3 min. |
+| [Kalbos_planas_Trifazis_asinchroninis_variklis.md](uzduotys/Kalbos_planas_Trifazis_asinchroninis_variklis.md) | Kalbos „Kaip veikia trifazis asinchroninis variklis“ planas | – |
 | [Kalbos_kultura_praktines_uzduotys_26_skaidres.pptx](uzduotys/Kalbos_kultura_praktines_uzduotys_26_skaidres.pptx) | Kalbos kultūra: praktinės užduotys | 28 skaidrės |
 | [Specialybes_kalbos_uzduotis.docx](uzduotys/Specialybes_kalbos_uzduotis.docx) | Specialybės kalbos užduotis: parengti 2–3 min. kalbą | Word dokumentas |
 | [Uzduotis_Zodziai_4_skaidres.pptx](uzduotys/Uzduotis_Zodziai_4_skaidres.pptx) | Užduotis „Žodžiai“ | 6 skaidrės |
