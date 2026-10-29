@@ -30,7 +30,7 @@ Ačiū. Jei turite klausimų, mielai atsakysiu.
 
 ## Patarimai sakant kalbą per Teams
 
-- Tekstas – apie 540 žodžių. Ramiu tempu su pauzėmis tai yra maždaug 4 minutės. Jei reikės 3 minučių, išmeskite pastraipą apie prijungimą (trikampis / žvaigždė) – liks apie 460 žodžių, o paaiškinimas nenukentės.
+- Tekstas – apie 550 žodžių. Ramiu tempu su pauzėmis tai yra maždaug 4 minutės. Jei reikės 3 minučių, išmeskite pastraipą apie prijungimą (trikampis / žvaigždė) – liks apie 460 žodžių, o paaiškinimas nenukentės.
 - Įterpinius sakykite kiek tyliau ir greičiau nei pagrindinį sakinį, su trumpa pauze iš abiejų pusių, – taip jie skamba natūraliai, o ne kaip išmokti.
 - Kalbos „griaučiai“ atminčiai: **kas ir kur → korpusas, velenas, dvi dalys → srovė = magnetas → trys srovės paeiliui = laukas sukasi („trifazis“) → laukas kerta strypus = srovė rotoriuje = rotorius magnetas → vejasi, nepasiveja („asinchroninis“) → prijungimas → pabaiga**.
 - Pauzės: po „Dabar svarbiausia – kodėl jis sukasi“ ir po „Štai ir visas veikimas“. Tai dvi svarbiausios vietos.
