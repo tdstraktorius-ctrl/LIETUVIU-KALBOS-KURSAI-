@@ -20,7 +20,7 @@ Specialybės kalbos užduotis (žr. `Specialybes_kalbos_uzduotis.docx`). Kalba s
 **Kontakto su klausytoju figūros ir priemonės:**
 
 - **Kreipinys** pradžioje ir pabaigoje.
-- **Įtraukiantis „mes“**: „į mūsų namus“, „mes jo nematome“, „ką norime sukti“.
+- **Įtraukiantis „mes“**: „į mūsų namus“, „su jo darbu susiduriame kasdien“, „ką norime sukti“.
 - **Vedantys sakiniai**, kad klausytojas visada žinotų, kur esame: „Paaiškinsiu, kas yra jo viduje ir kodėl jis sukasi“, „Dabar svarbiausia – kodėl jis sukasi“, „Lieka paaiškinti žodį „asinchroninis““.
 - **Du palyginimai iš kasdienybės**, tik ten, kur be jų neaišku: žiūrovų banga stadione (besisukantis laukas) ir indukcinė viryklė (indukcija).
 - **Sąmoningas pakartojimas** svarbiausios minties: „srovė metalą paverčia magnetu“ pasakoma du kartus – apie statorių ir apie rotorių.
@@ -48,7 +48,7 @@ Lieka paaiškinti žodį „asinchroninis“. Rotorius sukasi paskui lauką, bet
 
 Dar keli žodžiai apie prijungimą, nes nuo jo priklauso, kaip variklis dirbs. Apvijų galai išvesti į gnybtų dėžutę, ir jas galima sujungti dviem būdais: trikampiu arba žvaigžde. Sujungus trikampiu, kiekviena apvija gauna visą tinklo įtampą – 400 voltų – ir variklis dirba visa galia. Sujungus žvaigžde, apvijai tenka tik 230 voltų, variklis ima mažiau srovės ir dirba švelniau. Kaip jungti, parašyta ant variklio lentelės, ir į ją visada žiūrima prieš jungiant.
 
-Tai ir visas trifazis asinchroninis variklis: besisukantis magnetinis laukas ir rotorius, kuris jį vejasi. Jame nėra šepetėlių ir nėra kontaktų, kurie diltų ar kibirkščiuotų, todėl jis gali suktis dešimtmečius. Būtent todėl jų yra visur, nors mes jų nė nepastebime.
+Tai ir visas trifazis asinchroninis variklis: besisukantis magnetinis laukas ir rotorius, kuris jį vejasi. Jame nėra šepetėlių ir nėra kontaktų, kurie diltų ar kibirkščiuotų, todėl jis gali suktis dešimtmečius. Būtent todėl pramonėje jis naudojamas dažniausiai.
 
 Ačiū. Jei turite klausimų, mielai atsakysiu.
 
